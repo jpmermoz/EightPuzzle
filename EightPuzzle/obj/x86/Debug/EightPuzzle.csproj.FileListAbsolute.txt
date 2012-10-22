@@ -1,0 +1,13 @@
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle_MarkupCompile.cache
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.g.resources
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Properties.Resources.resources
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.csproj.GenerateResource.Cache
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\WPFToolkit.dll

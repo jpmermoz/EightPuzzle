@@ -1,0 +1,16 @@
+﻿<Window x:Class="EightPuzzle.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        Title="8 Puzzle UM - Inteligencia Artificial - Alumno: Mermoz, Juan Pedro" Height="564" Width="1176" Icon="/EightPuzzle;component/Imagenes/icono.ico" ResizeMode="CanMinimize">
+    <Grid>
+        <Canvas Margin="139,11,0,0" Name="Canvas" Width="500" Height="500" VerticalAlignment="Top" HorizontalAlignment="Left" />
+        <Button Content="Desordenar" Height="23" Margin="12,12,0,0" Name="buttonDesordenar" VerticalAlignment="Top" Click="buttonDesordenar_Click" HorizontalAlignment="Left" Width="120" />
+        <Button Content="Ordenar" Height="23" Margin="12,41,0,0" Name="buttonOrdenar" VerticalAlignment="Top" Click="buttonOrdenar_Click" HorizontalAlignment="Left" Width="120" />
+        <ProgressBar Height="23" Margin="12,70,0,0" Name="progressBar1" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" />
+        <chartingToolkit:Chart Margin="0,11,12,0" Name="chartManhattan" Background="Silver" BorderBrush="Black" BorderThickness="3" Title="Manhattan" HorizontalAlignment="Right" Width="497" Height="500" VerticalAlignment="Top">
+            <chartingToolkit:LineSeries Name="distanciasSeries" Title="Distancias" AnimationSequence="FirstToLast" DependentValuePath="Distancia" IndependentValuePath="Movimiento">
+            </chartingToolkit:LineSeries>
+        </chartingToolkit:Chart>
+    </Grid>
+</Window>
