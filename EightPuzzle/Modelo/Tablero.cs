@@ -13,6 +13,7 @@ namespace EightPuzzle
         public int Filas { get; set; }
         public int Columnas { get; set; }
 
+        public List<List<Pieza>> Movimientos = new List<List<Pieza>>();
         private static Random random = new Random(DateTime.Now.Millisecond);
         private List<Pieza> EstadoObjetivo;
         public List<Coordenada> Coordenadas = new List<Coordenada>();
@@ -138,11 +139,13 @@ namespace EightPuzzle
                     CambiarPiezasDePosicion(ObtenerPieza(piezaOptima.Valor), piezaVacia);
                     movimientos++;
                     Coordenadas.Add(new Coordenada(movimientos, distancia));
+                    Movimientos.Add(Clonar(Piezas));
                 }
                 else
                 {
                     Desordenar(3);
                     distancia = CalcularDistanciaManhattan();
+                    Movimientos.Add(Clonar(Piezas));
                 }
             }
         }

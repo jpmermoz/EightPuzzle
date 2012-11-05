@@ -11,3 +11,17 @@ C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
 C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
 C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
 C:\Users\JuanPedro\Desktop\EightPuzzle\EightPuzzle\bin\Debug\WPFToolkit.dll
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.exe
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.pdb
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.exe
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\bin\Debug\EightPuzzle.pdb
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\bin\Debug\WPFToolkit.dll
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\MainWindow.baml
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\App.g.cs
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle_MarkupCompile.cache
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.g.resources
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.Properties.Resources.resources
+D:\Mis Documentos\Facu\Quinto Año\Inteligencia Artificial\EightPuzzle\EightPuzzle\obj\x86\Debug\EightPuzzle.csproj.GenerateResource.Cache
